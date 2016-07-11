@@ -1,5 +1,13 @@
 # Writing all changes I did
 
+## [0.0.4] - 2016-07-11
+### CHANGED
+- Divided the _Medium_'s section in two parts: English and Portuguese
+
+### ADDED
+- 3 articles in Portuguese
+- 1 article in English
+
 ## [0.0.3] - 2016-07-11
 ### CHANGED
 - Fix for _Medium_'s title on README
