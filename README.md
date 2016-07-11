@@ -3,7 +3,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 
 -------------------
 
-[Medium]
+## [Medium]
 
 -------------------
 
