@@ -12,6 +12,8 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 5. [The 7 Differences Between Professionals and Amateurs](https://medium.com/@jeffgoins/the-7-differences-between-professional-and-amateurs-ab6850c25c61#.o3mb7maya)
 6. [Technical Anonymity Guide](https://blog.securityevaluators.com/technical-anonymity-guide-658a53adff5b#.vut6oma7k)
 7. [Writing code every single day in a Half Year](https://medium.com/@raphamorim/what-ive-learned-writting-code-every-single-day-in-a-half-year-a6c504e7300f#.m2psaslqd)
+8. [3 Daily Habits that Help You to Get Into Flow on a Regular](https://medium.com/the-mission/3-daily-habits-that-help-you-to-get-into-flow-on-a-regular-ceccb65d20cd#.ec1vzidg4)
+9. [Finding Time to Become a Better Developer](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.xpmlj9fjr)
 
 
 ### Portuguese

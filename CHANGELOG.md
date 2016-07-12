@@ -1,5 +1,9 @@
 # Writing all changes I did
 
+## [0.0.5] - 2016-07-11
+### ADDED
+- Added two articles from _Medium_'s English section.
+
 ## [0.0.4] - 2016-07-11
 ### CHANGED
 - Divided the _Medium_'s section in two parts: English and Portuguese
