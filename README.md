@@ -14,9 +14,13 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 7. [Writing code every single day in a Half Year](https://medium.com/@raphamorim/what-ive-learned-writting-code-every-single-day-in-a-half-year-a6c504e7300f#.m2psaslqd)
 8. [3 Daily Habits that Help You to Get Into Flow on a Regular](https://medium.com/the-mission/3-daily-habits-that-help-you-to-get-into-flow-on-a-regular-ceccb65d20cd#.ec1vzidg4)
 9. [Finding Time to Become a Better Developer](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.xpmlj9fjr)
+10. [Here’s my secret weapon: I read](https://medium.com/the-mission/heres-my-secret-weapon-i-read-a549859d0b6a#.plpngohiy)
+11. [Good coding instincts will eventually kick you in the teeth](https://medium.freecodecamp.com/good-coding-instincts-will-eventually-kick-you-in-the-teeth-2b3766897f3f#.gnnqetfhu)
+12. [Minimum Viable DevOps](https://medium.freecodecamp.com/minimum-viable-devops-919972dfd9e0#.rymfg6kjj)
 
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
 2. [Como ser um desenvolvedor transante 02](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-descolado-6d085bcb36e1#.6jk66v69m)
 3. [Não deixe o medo de jogar impedir que você jogue](https://medium.com/@raphamorim/n%C3%A3o-deixe-o-medo-de-jogar-impedir-que-voc%C3%AA-jogue-59781c93fd09#.cqph29ujc)
+4. [Como aprender web frameworks](https://medium.com/@fernahh/como-aprender-web-frameworks-7063c4a6af28#.eg0hvyscy)

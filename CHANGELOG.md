@@ -1,5 +1,14 @@
 # Writing all changes I did
 
+## [0.0.7] - 2016-07-14
+### ADDED
+- three articles from _Medium_'s English section.
+- one article from _Medium_'s Portuguese section.
+
+## [0.0.6] - 2016-07-11
+### ADDED
+- Added one article from _Medium_'s English section.
+
 ## [0.0.5] - 2016-07-11
 ### ADDED
 - Added two articles from _Medium_'s English section.
