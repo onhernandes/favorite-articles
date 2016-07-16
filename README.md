@@ -17,6 +17,9 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 10. [Here’s my secret weapon: I read](https://medium.com/the-mission/heres-my-secret-weapon-i-read-a549859d0b6a#.plpngohiy)
 11. [Good coding instincts will eventually kick you in the teeth](https://medium.freecodecamp.com/good-coding-instincts-will-eventually-kick-you-in-the-teeth-2b3766897f3f#.gnnqetfhu)
 12. [Minimum Viable DevOps](https://medium.freecodecamp.com/minimum-viable-devops-919972dfd9e0#.rymfg6kjj)
+13. [Practice, set goals, and take advantage of all the coding resources out there](https://medium.freecodecamp.com/is-free-code-camp-enough-to-become-a-successful-developer-f5df0c33caa8#.4kpvg9k5q)
+14. [Why every developer must to go to events](https://medium.com/nossa-coletividad/why-every-developer-must-to-go-to-events-6a5327a977f9#.8upfxp7as)
+15. [Writing Your Own jQuery Plugins](http://blog.teamtreehouse.com/writing-your-own-jquery-plugins)
 
 
 ### Portuguese
