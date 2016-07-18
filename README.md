@@ -20,6 +20,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 13. [Practice, set goals, and take advantage of all the coding resources out there](https://medium.freecodecamp.com/is-free-code-camp-enough-to-become-a-successful-developer-f5df0c33caa8#.4kpvg9k5q)
 14. [Why every developer must to go to events](https://medium.com/nossa-coletividad/why-every-developer-must-to-go-to-events-6a5327a977f9#.8upfxp7as)
 15. [Writing Your Own jQuery Plugins](http://blog.teamtreehouse.com/writing-your-own-jquery-plugins)
+16. [Updates from our accidental network](https://trackchanges.postlight.com/updates-from-our-accidental-network-717cd9f4b8d1#.jmzm967rh)
 
 
 ### Portuguese

@@ -1,5 +1,9 @@
 # Writing all changes I did
 
+## [0.0.9] - 2016-07-17
+### ADDED
+- one article from _Medium_'s English section.
+
 ## [0.0.8] - 2016-07-16
 ### ADDED
 - three articles from _Medium_'s English section.
