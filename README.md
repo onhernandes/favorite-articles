@@ -21,6 +21,10 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 14. [Why every developer must to go to events](https://medium.com/nossa-coletividad/why-every-developer-must-to-go-to-events-6a5327a977f9#.8upfxp7as)
 15. [Writing Your Own jQuery Plugins](http://blog.teamtreehouse.com/writing-your-own-jquery-plugins)
 16. [Updates from our accidental network](https://trackchanges.postlight.com/updates-from-our-accidental-network-717cd9f4b8d1#.jmzm967rh)
+17. [The Strategy Behind Snapchat’s Memories Update](https://medium.com/@garyvee/the-strategy-behind-snapchats-memories-update-5979d4c01e4d#.k9lsqh3w8)
+18. [The Danger of Stopping at Z: Why Kids Should Code, in the Words of Dr. Seuss](https://medium.freecodecamp.com/the-danger-of-stopping-at-z-c28fbd702e0b#)
+19. [You Can Master Anything. Stop Trying to Do Everything](https://medium.com/the-mission/you-can-do-anything-but-not-everything-127823406f07#)
+20. [When You Fail To Achieve Your Goals, Try Systems Instead](https://medium.com/the-mission/when-you-fail-to-achieve-your-goals-try-systems-instead-4bbff7ba11a#)
 
 
 ### Portuguese
@@ -28,3 +32,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 2. [Como ser um desenvolvedor transante 02](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-descolado-6d085bcb36e1#.6jk66v69m)
 3. [Não deixe o medo de jogar impedir que você jogue](https://medium.com/@raphamorim/n%C3%A3o-deixe-o-medo-de-jogar-impedir-que-voc%C3%AA-jogue-59781c93fd09#.cqph29ujc)
 4. [Como aprender web frameworks](https://medium.com/@fernahh/como-aprender-web-frameworks-7063c4a6af28#.eg0hvyscy)
+5. [Orientação a Objeto – SOLID](http://eduardopires.net.br/2013/04/orientacao-a-objeto-solid/)
+6. [SOLID - Teoria e Prática](http://eduardopires.net.br/2015/01/solid-teoria-e-pratica/)
+7. [Composer para iniciantes](http://tableless.com.br/composer-para-iniciantes/)
+8. [Sobre deploy usando hooks do Git](https://medium.com/@diegoeis/deploy-usando-hook-do-git-bcdb600b4fa6#)
