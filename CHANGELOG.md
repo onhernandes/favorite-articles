@@ -2,6 +2,11 @@
 
 ## [0.0.11] - 2016-07-23
 ### ADDED
+- seven articles from _Medium_'s English section.
+- thirteen articles from _Medium_'s Portuguese section.
+
+## [0.0.11] - 2016-07-23
+### ADDED
 - four articles from _Medium_'s English section.
 - four articles from _Medium_'s Portuguese section.
 
