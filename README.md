@@ -32,6 +32,8 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 25. [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#)
 26. [What Do I Hate And What I Do About It](https://medium.com/the-mission/what-do-i-hate-and-what-i-do-about-it-fc0f5cbedf64#)
 27. [I Read 1,000 Motivational Posts On Social Media. Here’s What Happened Next](https://medium.com/the-mission/i-read-1-000-motivational-posts-on-social-media-heres-what-happened-next-208aac70a1df#)
+28. [3 things I learned from 365 days straight on Duolingo](https://medium.com/the-mission/3-things-i-learned-from-365-days-straight-on-duolingo-a54923ac9d9b#)
+29. [This 6-letter word is the secret to achieving your toughest goals](https://medium.com/the-mission/this-6-letter-word-is-the-secret-to-achieving-your-toughest-goals-360486231cec#)
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
