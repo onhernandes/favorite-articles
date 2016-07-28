@@ -34,6 +34,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 27. [I Read 1,000 Motivational Posts On Social Media. Here’s What Happened Next](https://medium.com/the-mission/i-read-1-000-motivational-posts-on-social-media-heres-what-happened-next-208aac70a1df#)
 28. [3 things I learned from 365 days straight on Duolingo](https://medium.com/the-mission/3-things-i-learned-from-365-days-straight-on-duolingo-a54923ac9d9b#)
 29. [This 6-letter word is the secret to achieving your toughest goals](https://medium.com/the-mission/this-6-letter-word-is-the-secret-to-achieving-your-toughest-goals-360486231cec#)
+30. [Why You Should Never Stop Moving Forward](https://medium.com/personal-growth/why-you-should-never-stop-moving-forward-982f6eb001f9#)
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
@@ -55,3 +56,5 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 19. [Consistência no Design](https://blog.flama.me/consistência-no-design-e56d4a25439e#)
 20. [Devs, organizem sua imagem na web](https://medium.com/@ezefranca/devs-organizem-sua-imagem-na-web-2f1dc2c1ba67#)
 21. [O que o ecossistema de startups oferece e ninguém tem coragem de falar](https://medium.com/@raissaklain/o-que-o-ecossistema-de-startps-oferece-e-ningu%C3%A9m-tem-coragem-de-falar-f5edf7383d5b#)
+22. [O que é ATOMIC Design](http://tableless.com.br/o-que-e-design-atomic/)
+23. [Guia de Estilos](http://tableless.com.br/guia-de-estilos/)
