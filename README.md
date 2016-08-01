@@ -35,6 +35,8 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 28. [3 things I learned from 365 days straight on Duolingo](https://medium.com/the-mission/3-things-i-learned-from-365-days-straight-on-duolingo-a54923ac9d9b#)
 29. [This 6-letter word is the secret to achieving your toughest goals](https://medium.com/the-mission/this-6-letter-word-is-the-secret-to-achieving-your-toughest-goals-360486231cec#)
 30. [Why You Should Never Stop Moving Forward](https://medium.com/personal-growth/why-you-should-never-stop-moving-forward-982f6eb001f9#)
+31. [The Importance of Uninterrupted Creation Time](https://medium.com/the-mission/the-importance-of-uninterrupted-creation-time-b73892afb557#)
+32. [How To Get Hundreds of Stars on Your Github Project](https://medium.com/@cwRichardKim/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2#)
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
