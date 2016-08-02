@@ -37,6 +37,8 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 30. [Why You Should Never Stop Moving Forward](https://medium.com/personal-growth/why-you-should-never-stop-moving-forward-982f6eb001f9#)
 31. [The Importance of Uninterrupted Creation Time](https://medium.com/the-mission/the-importance-of-uninterrupted-creation-time-b73892afb557#)
 32. [How To Get Hundreds of Stars on Your Github Project](https://medium.com/@cwRichardKim/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2#)
+33. [What Are You Actually Passionate About?](https://medium.com/hi-my-name-is-jon/what-are-you-actually-passionate-about-53a777e1b986#)
+34. [If You Can, Choose to Create!](https://medium.com/the-mission/if-you-can-choose-to-create-cfe4a7014291#)
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
