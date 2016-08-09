@@ -40,6 +40,10 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 33. [What Are You Actually Passionate About?](https://medium.com/hi-my-name-is-jon/what-are-you-actually-passionate-about-53a777e1b986#)
 34. [If You Can, Choose to Create!](https://medium.com/the-mission/if-you-can-choose-to-create-cfe4a7014291#)
 35. [The Principles Of Life That Everyone Knows, But Only A Few Follow](https://medium.com/the-mission/the-principles-of-life-that-everyone-knows-but-only-a-few-follow-51588060903c#)
+36. [The Power of One Focused Hour a Day](https://medium.com/the-mission/the-power-of-one-focused-hour-a-day-6147d80c3910#)
+37. [Flow is Created Through Eliminating Distractions, Discipline and Deep Work](https://medium.com/the-mission/flow-is-created-through-eliminating-distractions-discipline-and-deep-work-9f01a4d4b1e5#)
+38. [4 Ways I’ve Optimized my Life for Deep Work](https://medium.com/@skooloflife/4-ways-i-ve-optimized-my-life-for-deep-work-d0e68d5d5fa0#)
+39. [You’re Delirious If You Take Life Serious](https://medium.com/art-of-practicality/youre-delirious-if-you-take-life-serious-57820e01f4c4#)
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
@@ -63,3 +67,4 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 21. [O que o ecossistema de startups oferece e ninguém tem coragem de falar](https://medium.com/@raissaklain/o-que-o-ecossistema-de-startps-oferece-e-ningu%C3%A9m-tem-coragem-de-falar-f5edf7383d5b#)
 22. [O que é ATOMIC Design](http://tableless.com.br/o-que-e-design-atomic/)
 23. [Guia de Estilos](http://tableless.com.br/guia-de-estilos/)
+24. [Prototype JS para PHP Developers](https://medium.com/@omarkdev/prototype-js-para-php-developers-67ed91bf5434#)
