@@ -44,6 +44,10 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 37. [Flow is Created Through Eliminating Distractions, Discipline and Deep Work](https://medium.com/the-mission/flow-is-created-through-eliminating-distractions-discipline-and-deep-work-9f01a4d4b1e5#)
 38. [4 Ways I’ve Optimized my Life for Deep Work](https://medium.com/@skooloflife/4-ways-i-ve-optimized-my-life-for-deep-work-d0e68d5d5fa0#)
 39. [You’re Delirious If You Take Life Serious](https://medium.com/art-of-practicality/youre-delirious-if-you-take-life-serious-57820e01f4c4#)
+40. [You always think you have it worse](https://medium.com/hi-my-name-is-jon/you-always-think-you-have-it-worse-4ed67e7459dc#)
+41. [Codex Vitae](https://betterhumans.coach.me/codex-vitae-635f97552092#)
+42. [Reset your brain: do a mind up!](https://betterhumans.coach.me/reset-your-brain-do-a-mind-dump-4dea2e6b400e#)
+43. [5 Things That Will Keep You from Achieving Work-Life Balance](https://medium.com/the-mission/5-things-that-will-keep-you-from-achieving-work-life-balance-50f1ef63d9b#)
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
