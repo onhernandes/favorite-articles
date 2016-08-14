@@ -48,6 +48,9 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 41. [Codex Vitae](https://betterhumans.coach.me/codex-vitae-635f97552092#)
 42. [Reset your brain: do a mind up!](https://betterhumans.coach.me/reset-your-brain-do-a-mind-dump-4dea2e6b400e#)
 43. [5 Things That Will Keep You from Achieving Work-Life Balance](https://medium.com/the-mission/5-things-that-will-keep-you-from-achieving-work-life-balance-50f1ef63d9b#)
+44. [Take A Vacation: It Boosts Your Productivity And Reduces Stress](https://medium.com/the-mission/take-a-vacation-it-boosts-your-productivity-and-reduces-stress-5979ca040bc5#)
+45. [Code Briefing: Good code is its own best documentation](https://medium.freecodecamp.com/code-briefing-good-code-is-its-own-best-documentation-d064ca2077ae#)
+46. [Good code is its own best documentation](https://medium.freecodecamp.com/good-code-vs-bad-code-263f71e867c1#)
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
