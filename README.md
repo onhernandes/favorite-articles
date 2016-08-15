@@ -51,6 +51,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 44. [Take A Vacation: It Boosts Your Productivity And Reduces Stress](https://medium.com/the-mission/take-a-vacation-it-boosts-your-productivity-and-reduces-stress-5979ca040bc5#)
 45. [Code Briefing: Good code is its own best documentation](https://medium.freecodecamp.com/code-briefing-good-code-is-its-own-best-documentation-d064ca2077ae#)
 46. [Good code is its own best documentation](https://medium.freecodecamp.com/good-code-vs-bad-code-263f71e867c1#)
+47. [Write what you know. Or don’t.](https://writingcooperative.com/write-what-you-know-or-dont-989aa67a54a4#)
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
@@ -75,3 +76,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 22. [O que é ATOMIC Design](http://tableless.com.br/o-que-e-design-atomic/)
 23. [Guia de Estilos](http://tableless.com.br/guia-de-estilos/)
 24. [Prototype JS para PHP Developers](https://medium.com/@omarkdev/prototype-js-para-php-developers-67ed91bf5434#)
+25. [Porque, pela primeira vez, me senti acolhida em um evento de tecnologia](https://medium.com/@liviamorim/porque-pela-primeira-vez-me-senti-acolhida-em-um-evento-de-tecnologia-cffc2617e772#)
+26. [O que aconteceu com o Pink Vader?](https://medium.com/@laurabuu/o-que-aconteceu-com-o-pink-vader-df44563040df#)
+27. [A força já despertou, quer você queira ou não](https://medium.com/@laurabuu/a-for%C3%A7a-j%C3%A1-despertou-quer-voc%C3%AA-queira-ou-n%C3%A3o-f3598093eb78#)
+28. [Como sabotei minha "carreira"](https://medium.com/@mjcoffeeholick/como-sabotei-minha-carreira-826ea63b9ed1#)
