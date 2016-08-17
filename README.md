@@ -58,6 +58,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 51. [Stop Spending So Much Time In Your Head](https://medium.com/art-of-practicality/stop-spending-so-much-time-in-your-head-8840de3bba01#)
 52. [Why It’s Time You Started a Fuck-It List](https://medium.com/the-coffeelicious/why-its-time-you-started-a-fuck-it-list-bcda6b237885#)
 53. [Give your hustle a break. It could kill you.](https://medium.com/hi-my-name-is-jon/give-your-hustle-a-break-2cb314e284a4#)
+54. [Whatever You Do, Just Start.](https://medium.com/the-coffeelicious/whatever-you-do-just-start-ec236bcc3d6c#)
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
