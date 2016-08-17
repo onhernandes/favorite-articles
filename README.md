@@ -86,3 +86,4 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 24. [O que aconteceu com o Pink Vader?](https://medium.com/@laurabuu/o-que-aconteceu-com-o-pink-vader-df44563040df#)
 25. [A força já despertou, quer você queira ou não](https://medium.com/@laurabuu/a-for%C3%A7a-j%C3%A1-despertou-quer-voc%C3%AA-queira-ou-n%C3%A3o-f3598093eb78#)
 26. [Como sabotei minha "carreira"](https://medium.com/@mjcoffeeholick/como-sabotei-minha-carreira-826ea63b9ed1#)
+27. [Como aprender qualquer coisa sozinho, com pouca grana e muito mais rápido](https://medium.com/@ogilvieira/como-aprender-mais-r%C3%A1pido-ed671efdcf47#.auiuhkog6)
