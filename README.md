@@ -59,6 +59,14 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 52. [Why It’s Time You Started a Fuck-It List](https://medium.com/the-coffeelicious/why-its-time-you-started-a-fuck-it-list-bcda6b237885#)
 53. [Give your hustle a break. It could kill you.](https://medium.com/hi-my-name-is-jon/give-your-hustle-a-break-2cb314e284a4#)
 54. [Whatever You Do, Just Start.](https://medium.com/the-coffeelicious/whatever-you-do-just-start-ec236bcc3d6c#)
+55. [Give your hustle a break. It could kill you.](https://medium.com/hi-my-name-is-jon/give-your-hustle-a-break-2cb314e284a4#)
+56. [Why It’s Time You Started a Fuck-It List](https://medium.com/the-coffeelicious/why-its-time-you-started-a-fuck-it-list-bcda6b237885#)
+57. [Stop Spending So Much Time In Your Head](https://medium.com/art-of-practicality/stop-spending-so-much-time-in-your-head-8841de3bba01#)
+58. [Show up. Communicate. Do the work.](https://medium.com/the-mission/show-up-communicate-do-the-work-c0990de18a12#)
+59. [3 Challenges All Writers Face (and How to Overcome Them)](https://medium.com/@jeffgoins/3-challenges-all-writers-face-and-how-to-overcome-them-1c8b65a020fe#)
+60. [Stop Apologizing for Your Work](https://medium.com/@jeffgoins/stop-apologizing-for-your-work-7565780ab5b1#)
+61. [#WeSurvived the First Two Weeks of Remote Year](https://medium.com/go-remote/wesurvived-the-first-two-weeks-of-remote-year-e052857ef1b9#)
+62. [Week 2: Life in Lisboa](https://medium.com/go-remote/week-2-life-in-lisboa-c6ee24372602#)
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
@@ -88,3 +96,6 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 25. [A força já despertou, quer você queira ou não](https://medium.com/@laurabuu/a-for%C3%A7a-j%C3%A1-despertou-quer-voc%C3%AA-queira-ou-n%C3%A3o-f3598093eb78#)
 26. [Como sabotei minha "carreira"](https://medium.com/@mjcoffeeholick/como-sabotei-minha-carreira-826ea63b9ed1#)
 27. [Como aprender qualquer coisa sozinho, com pouca grana e muito mais rápido](https://medium.com/@ogilvieira/como-aprender-mais-r%C3%A1pido-ed671efdcf47#.auiuhkog6)
+28. [A incrível geração que está cagando para os seus protocolos sociais](https://medium.com/@dcnisen/a-incr%C3%ADvel-gera%C3%A7%C3%A3o-que-est%C3%A1-cagando-para-os-seus-protocolos-sociais-a25708d9195a#)
+29. [“O Nerd Padrão é Imbecil e Preconceituoso”](https://medium.com/@JMTrevisan/o-nerd-padr%C3%A3o-%C3%A9-imbecil-e-preconceituoso-498beee30ca7#)
+30. [Entenda de uma vez por todas o que é React.JS, Angular 2, Aurelia e Vue.JS](https://medium.com/by-vinicius-reis/o-que-e-react-ng2-auleria-vue-e34b0c77b5a1#)
