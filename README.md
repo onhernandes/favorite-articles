@@ -19,7 +19,6 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 12. [Minimum Viable DevOps](https://medium.freecodecamp.com/minimum-viable-devops-919972dfd9e0#.rymfg6kjj)
 13. [Practice, set goals, and take advantage of all the coding resources out there](https://medium.freecodecamp.com/is-free-code-camp-enough-to-become-a-successful-developer-f5df0c33caa8#.4kpvg9k5q)
 14. [Why every developer must to go to events](https://medium.com/nossa-coletividad/why-every-developer-must-to-go-to-events-6a5327a977f9#.8upfxp7as)
-15. [Writing Your Own jQuery Plugins](http://blog.teamtreehouse.com/writing-your-own-jquery-plugins)
 16. [Updates from our accidental network](https://trackchanges.postlight.com/updates-from-our-accidental-network-717cd9f4b8d1#.jmzm967rh)
 17. [The Strategy Behind Snapchat’s Memories Update](https://medium.com/@garyvee/the-strategy-behind-snapchats-memories-update-5979d4c01e4d#.k9lsqh3w8)
 18. [The Danger of Stopping at Z: Why Kids Should Code, in the Words of Dr. Seuss](https://medium.freecodecamp.com/the-danger-of-stopping-at-z-c28fbd702e0b#)
@@ -73,12 +72,8 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 2. [Como ser um desenvolvedor transante 02](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-descolado-6d085bcb36e1#.6jk66v69m)
 3. [Não deixe o medo de jogar impedir que você jogue](https://medium.com/@raphamorim/n%C3%A3o-deixe-o-medo-de-jogar-impedir-que-voc%C3%AA-jogue-59781c93fd09#.cqph29ujc)
 4. [Como aprender web frameworks](https://medium.com/@fernahh/como-aprender-web-frameworks-7063c4a6af28#.eg0hvyscy)
-5. [Orientação a Objeto – SOLID](http://eduardopires.net.br/2013/04/orientacao-a-objeto-solid/)
-6. [SOLID - Teoria e Prática](http://eduardopires.net.br/2015/01/solid-teoria-e-pratica/)
-7. [Composer para iniciantes](http://tableless.com.br/composer-para-iniciantes/)
 8. [Sobre deploy usando hooks do Git](https://medium.com/@diegoeis/deploy-usando-hook-do-git-bcdb600b4fa6#)
 9. [Sobre inspirar pessoas com suas iniciativas](https://medium.com/nossa-coletividad/sobre-inspirar-pessoas-com-suas-iniciativas-6533790fed6a#)
-10. [Do Zero a Herói Front-End (Parte II)](http://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-2)
 11. [Por que é tão fácil entender o mobile-first de maneira errada?](https://medium.com/nossa-coletividad/por-que-%C3%A9-t%C3%A3o-f%C3%A1cil-errar-no-mobile-first-b51f8103e06a#)
 12. [Você precisa ser um designer incrível!](https://medium.com/nossa-coletividad/voc%C3%AA-precisa-ser-um-designer-incr%C3%ADvel-b9fe3b22001b#)
 13. [Sobre como ter foco na vida](https://medium.com/nossa-coletividad/sobre-como-ter-foco-na-vida-5b61a1e24b4e#)
@@ -88,8 +83,6 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 17. [Consistência no Design](https://blog.flama.me/consistência-no-design-e56d4a25439e#)
 18. [Devs, organizem sua imagem na web](https://medium.com/@ezefranca/devs-organizem-sua-imagem-na-web-2f1dc2c1ba67#)
 19. [O que o ecossistema de startups oferece e ninguém tem coragem de falar](https://medium.com/@raissaklain/o-que-o-ecossistema-de-startps-oferece-e-ningu%C3%A9m-tem-coragem-de-falar-f5edf7383d5b#)
-20. [O que é ATOMIC Design](http://tableless.com.br/o-que-e-design-atomic/)
-21. [Guia de Estilos](http://tableless.com.br/guia-de-estilos/)
 22. [Prototype JS para PHP Developers](https://medium.com/@omarkdev/prototype-js-para-php-developers-67ed91bf5434#)
 23. [Porque, pela primeira vez, me senti acolhida em um evento de tecnologia](https://medium.com/@liviamorim/porque-pela-primeira-vez-me-senti-acolhida-em-um-evento-de-tecnologia-cffc2617e772#)
 24. [O que aconteceu com o Pink Vader?](https://medium.com/@laurabuu/o-que-aconteceu-com-o-pink-vader-df44563040df#)
@@ -104,3 +97,12 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 
 ## [Generic]
 ### English
+15. [Writing Your Own jQuery Plugins](http://blog.teamtreehouse.com/writing-your-own-jquery-plugins)
+
+### Portuguese
+5. [Orientação a Objeto – SOLID](http://eduardopires.net.br/2013/04/orientacao-a-objeto-solid/)
+6. [SOLID - Teoria e Prática](http://eduardopires.net.br/2015/01/solid-teoria-e-pratica/)
+7. [Composer para iniciantes](http://tableless.com.br/composer-para-iniciantes/)
+10. [Do Zero a Herói Front-End (Parte II)](http://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-2)
+20. [O que é ATOMIC Design](http://tableless.com.br/o-que-e-design-atomic/)
+21. [Guia de Estilos](http://tableless.com.br/guia-de-estilos/)
