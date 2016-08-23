@@ -99,3 +99,8 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 28. [A incrível geração que está cagando para os seus protocolos sociais](https://medium.com/@dcnisen/a-incr%C3%ADvel-gera%C3%A7%C3%A3o-que-est%C3%A1-cagando-para-os-seus-protocolos-sociais-a25708d9195a#)
 29. [“O Nerd Padrão é Imbecil e Preconceituoso”](https://medium.com/@JMTrevisan/o-nerd-padr%C3%A3o-%C3%A9-imbecil-e-preconceituoso-498beee30ca7#)
 30. [Entenda de uma vez por todas o que é React.JS, Angular 2, Aurelia e Vue.JS](https://medium.com/by-vinicius-reis/o-que-e-react-ng2-auleria-vue-e34b0c77b5a1#)
+
+-------------------
+
+## [Generic]
+### English
