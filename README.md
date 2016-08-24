@@ -93,6 +93,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 29. [“O Nerd Padrão é Imbecil e Preconceituoso”](https://medium.com/@JMTrevisan/o-nerd-padr%C3%A3o-%C3%A9-imbecil-e-preconceituoso-498beee30ca7#)
 30. [Entenda de uma vez por todas o que é React.JS, Angular 2, Aurelia e Vue.JS](https://medium.com/by-vinicius-reis/o-que-e-react-ng2-auleria-vue-e34b0c77b5a1#)
 31. [Você codifica somente em inglês?](https://medium.com/guilda-do-c%C3%B3digo/voc%C3%AA-codifica-somente-em-ingl%C3%AAs-e531fab7c6cb#)
+32. [Sobre formatos de imagens](https://medium.com/@diegoeis/sobre-formatos-de-imagens-b4f6fe05d8e3#)
 
 -------------------
 
