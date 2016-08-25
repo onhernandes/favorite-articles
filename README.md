@@ -94,6 +94,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 30. [Entenda de uma vez por todas o que é React.JS, Angular 2, Aurelia e Vue.JS](https://medium.com/by-vinicius-reis/o-que-e-react-ng2-auleria-vue-e34b0c77b5a1#)
 31. [Você codifica somente em inglês?](https://medium.com/guilda-do-c%C3%B3digo/voc%C3%AA-codifica-somente-em-ingl%C3%AAs-e531fab7c6cb#)
 32. [Sobre formatos de imagens](https://medium.com/@diegoeis/sobre-formatos-de-imagens-b4f6fe05d8e3#)
+33. [Perdendo o Job para o Sobrinho](https://medium.com/@gmasson/perdendo-o-job-para-o-sobrinho-954fa9184b5c#)
 
 -------------------
 
