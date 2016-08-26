@@ -1,0 +1,66 @@
+// Define a flex container and your flow
+@mixin flex($flow) {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+
+	-webkit-flex-flow: $flow;
+	-moz-flex-flow: $flow;
+	-ms-flex-flow: $flow;
+	-o-flex-flow: $flow;
+	flex-flow: $flow;
+}
+
+// Define a inline-flex
+@mixin inline-flex($flow) {
+	display: -webkit-inline-flex;
+	display: -moz-inline-flex;
+	display: -ms-inline-flex;
+	display: -o-inline-flex;
+	display: inline-flex;
+
+	-webkit-flex-flow: $flow;
+	-moz-flex-flow: $flow;
+	-ms-flex-flow: $flow;
+	-o-flex-flow: $flow;
+	flex-flow: $flow;
+}
+
+// Define the alignment for a flex container
+@mixin flex-align($justify-content, $align-items, $align-content) {
+	-webkit-justify-content: $justify-content;
+	-moz-justify-content: $justify-content;
+	justify-content: $justify-content;
+
+	-webkit-align-items: $align-items;
+	align-items: $align-items;
+
+	align-content: $align-content;
+	-webkit-align-content: $align-content;
+}
+
+// Define the property for box-sizing
+@mixin box-sizing($bs) {
+	-webkit-box-sizing: $bs;
+	-moz-box-sizing: $bs;
+	box-sizing: $bs;
+}
+
+// Define the property for transition
+@mixin transition($transition) {
+	-webkit-transition: $transition;
+	-moz-transition: $transition;
+	-o-transition: $transition;
+	transition: $transition;
+}
+
+// Define the property for transform
+@mixin transform($transform) {
+	-webkit-transform: $transform;
+	-moz-transform: $transform;
+	-ms-transform: $transform;
+	-o-transform: $transform;
+	transform: $transform;
+}
