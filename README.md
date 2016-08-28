@@ -66,6 +66,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 60. [Stop Apologizing for Your Work](https://medium.com/@jeffgoins/stop-apologizing-for-your-work-7565780ab5b1#)
 61. [#WeSurvived the First Two Weeks of Remote Year](https://medium.com/go-remote/wesurvived-the-first-two-weeks-of-remote-year-e052857ef1b9#)
 62. [Week 2: Life in Lisboa](https://medium.com/go-remote/week-2-life-in-lisboa-c6ee24372602#)
+63. [Think You Can’t Do Something? Read This.](https://medium.com/an-idea-for-you/think-you-cant-do-something-read-this-80fdf2f50dd7#)
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
@@ -109,3 +110,4 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 10. [Do Zero a Herói Front-End (Parte II)](http://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-2)
 20. [O que é ATOMIC Design](http://tableless.com.br/o-que-e-design-atomic/)
 21. [Guia de Estilos](http://tableless.com.br/guia-de-estilos/)
+00. [Já se sentiu um impostor? Eu também](http://gabsferreira.com/ja-se-sentiu-um-impostor-eu-tambem/)
