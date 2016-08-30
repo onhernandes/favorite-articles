@@ -67,6 +67,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 61. [#WeSurvived the First Two Weeks of Remote Year](https://medium.com/go-remote/wesurvived-the-first-two-weeks-of-remote-year-e052857ef1b9#)
 62. [Week 2: Life in Lisboa](https://medium.com/go-remote/week-2-life-in-lisboa-c6ee24372602#)
 63. [Think You Can’t Do Something? Read This.](https://medium.com/an-idea-for-you/think-you-cant-do-something-read-this-80fdf2f50dd7#)
+64. [Stop asking! Start doing.](https://medium.com/art-of-practicality/stop-asking-start-doing-f12940b434d7#)
 
 ### Portuguese
 1. [Como ser um desenvolvedor transante 01](https://medium.com/@raphamorim/como-ser-um-desenvolvedor-transante-parte-i-e010c125847f#.92n65t8pw)
