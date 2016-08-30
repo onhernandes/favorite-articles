@@ -103,6 +103,9 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 ## [Generic]
 ### English
 1. [Writing Your Own jQuery Plugins](http://blog.teamtreehouse.com/writing-your-own-jquery-plugins)
+1. [Ideas for Programming Projects](http://www.codeconquest.com/programming-projects/ideas-for-programming-projects/)
+1. [10 ideas for beginner web developers](http://excid3.com/blog/10-ideas-for-beginner-web-developers)
+1. [5 Project Ideas To Help You Learn Programming Faster](http://www.makeuseof.com/tag/5-project-ideas-help-learn-programming-faster/)
 
 ### Portuguese
 1. [Orientação a Objeto – SOLID](http://eduardopires.net.br/2013/04/orientacao-a-objeto-solid/)
