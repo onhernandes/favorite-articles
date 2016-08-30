@@ -115,3 +115,5 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [O que é ATOMIC Design](http://tableless.com.br/o-que-e-design-atomic/)
 1. [Guia de Estilos](http://tableless.com.br/guia-de-estilos/)
 1. [Já se sentiu um impostor? Eu também](http://gabsferreira.com/ja-se-sentiu-um-impostor-eu-tambem/)
+1. [Começando com React](https://willianjusten.com.br/comecando-com-react/)
+1. [Como usar o ReactJS](https://willianjusten.com.br/como-usar-o-reactjs/)
