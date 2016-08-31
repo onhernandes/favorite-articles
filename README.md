@@ -97,6 +97,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [Você codifica somente em inglês?](https://medium.com/guilda-do-c%C3%B3digo/voc%C3%AA-codifica-somente-em-ingl%C3%AAs-e531fab7c6cb#)
 1. [Sobre formatos de imagens](https://medium.com/@diegoeis/sobre-formatos-de-imagens-b4f6fe05d8e3#)
 1. [Perdendo o Job para o Sobrinho](https://medium.com/@gmasson/perdendo-o-job-para-o-sobrinho-954fa9184b5c#)
+1. [Bel Pesce e o empreendedorismo de palco: porque a Menina do Vale não vale tanto assim](https://medium.com/@izzynobre_24233/bel-pesce-e-o-empreendedorismo-de-palco-porque-a-menina-do-vale-n%C3%A3o-vale-tanto-assim-da9e0c917844#)
 
 -------------------
 
