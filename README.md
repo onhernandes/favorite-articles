@@ -5,21 +5,6 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 
 ## [Medium]
 ### English
-1. [Are you waiting for your real life to begin?](https://medium.com/hi-my-name-is-jon/are-you-waiting-for-your-real-life-to-begin-18aa193ca2cb#.m26b0edvt)
-1. [5 Practical Books I Reread Every Year To Live A Better Life](https://medium.com/the-mission/5-practical-books-i-reread-every-year-to-live-a-better-life-e5f45e6b0c37#.vjd6f6c9v)
-1. [How to Practice (and Become) Your Awesome Future Self — Starting Today](https://medium.com/the-mission/how-to-practice-and-become-your-awesome-future-self-starting-today-3a3e7fad8c2d#.22qp9cl42)
-1. [How Making Micro Changes Can Help You Start a New Chapter of Your Life](https://medium.com/the-mission/how-making-micro-changes-can-help-you-start-a-new-chapter-of-your-life-661a3ee83bd#.uxxe2t9e5)
-1. [The 7 Differences Between Professionals and Amateurs](https://medium.com/@jeffgoins/the-7-differences-between-professional-and-amateurs-ab6850c25c61#.o3mb7maya)
-1. [Technical Anonymity Guide](https://blog.securityevaluators.com/technical-anonymity-guide-658a53adff5b#.vut6oma7k)
-1. [Writing code every single day in a Half Year](https://medium.com/@raphamorim/what-ive-learned-writting-code-every-single-day-in-a-half-year-a6c504e7300f#.m2psaslqd)
-1. [3 Daily Habits that Help You to Get Into Flow on a Regular](https://medium.com/the-mission/3-daily-habits-that-help-you-to-get-into-flow-on-a-regular-ceccb65d20cd#.ec1vzidg4)
-1. [Finding Time to Become a Better Developer](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.xpmlj9fjr)
-1. [Here’s my secret weapon: I read](https://medium.com/the-mission/heres-my-secret-weapon-i-read-a549859d0b6a#.plpngohiy)
-1. [Good coding instincts will eventually kick you in the teeth](https://medium.freecodecamp.com/good-coding-instincts-will-eventually-kick-you-in-the-teeth-2b3766897f3f#.gnnqetfhu)
-1. [Minimum Viable DevOps](https://medium.freecodecamp.com/minimum-viable-devops-919972dfd9e0#.rymfg6kjj)
-1. [Practice, set goals, and take advantage of all the coding resources out there](https://medium.freecodecamp.com/is-free-code-camp-enough-to-become-a-successful-developer-f5df0c33caa8#.4kpvg9k5q)
-1. [Why every developer must to go to events](https://medium.com/nossa-coletividad/why-every-developer-must-to-go-to-events-6a5327a977f9#.8upfxp7as)
-1. [Updates from our accidental network](https://trackchanges.postlight.com/updates-from-our-accidental-network-717cd9f4b8d1#.jmzm967rh)
 1. [The Strategy Behind Snapchat’s Memories Update](https://medium.com/@garyvee/the-strategy-behind-snapchats-memories-update-5979d4c01e4d#.k9lsqh3w8)
 1. [The Danger of Stopping at Z: Why Kids Should Code, in the Words of Dr. Seuss](https://medium.freecodecamp.com/the-danger-of-stopping-at-z-c28fbd702e0b#)
 1. [You Can Master Anything. Stop Trying to Do Everything](https://medium.com/the-mission/you-can-do-anything-but-not-everything-127823406f07#)
@@ -128,6 +113,39 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 
 
 ## Front-end
+
+
 ## Back-end
+
+
 ## Productivity
+1. [How to Practice (and Become) Your Awesome Future Self — Starting Today](https://medium.com/the-mission/how-to-practice-and-become-your-awesome-future-self-starting-today-3a3e7fad8c2d#.22qp9cl42)
+1. [How Making Micro Changes Can Help You Start a New Chapter of Your Life](https://medium.com/the-mission/how-making-micro-changes-can-help-you-start-a-new-chapter-of-your-life-661a3ee83bd#.uxxe2t9e5)
+1. [3 Daily Habits that Help You to Get Into Flow on a Regular](https://medium.com/the-mission/3-daily-habits-that-help-you-to-get-into-flow-on-a-regular-ceccb65d20cd#.ec1vzidg4)
+1. [Finding Time to Become a Better Developer](https://medium.freecodecamp.com/finding-time-to-become-a-better-developer-eebc154881b2#.xpmlj9fjr)
+1. [Why every developer must to go to events](https://medium.com/nossa-coletividad/why-every-developer-must-to-go-to-events-6a5327a977f9#.8upfxp7as)
+
+
 ## Life
+1. [Are you waiting for your real life to begin?](https://medium.com/hi-my-name-is-jon/are-you-waiting-for-your-real-life-to-begin-18aa193ca2cb#.m26b0edvt)
+1. [5 Practical Books I Reread Every Year To Live A Better Life](https://medium.com/the-mission/5-practical-books-i-reread-every-year-to-live-a-better-life-e5f45e6b0c37#.vjd6f6c9v)
+1. [Here’s my secret weapon: I read](https://medium.com/the-mission/heres-my-secret-weapon-i-read-a549859d0b6a#.plpngohiy)
+
+
+
+## Un-tagged
+1. [The 7 Differences Between Professionals and Amateurs](https://medium.com/@jeffgoins/the-7-differences-between-professional-and-amateurs-ab6850c25c61#.o3mb7maya)
+1. [Updates from our accidental network](https://trackchanges.postlight.com/updates-from-our-accidental-network-717cd9f4b8d1#.jmzm967rh)
+
+
+
+## Stories
+1. [Writing code every single day in a Half Year](https://medium.com/@raphamorim/what-ive-learned-writting-code-every-single-day-in-a-half-year-a6c504e7300f#.m2psaslqd)
+
+
+
+## Tech/Programming
+1. [Technical Anonymity Guide](https://blog.securityevaluators.com/technical-anonymity-guide-658a53adff5b#.vut6oma7k)
+1. [Good coding instincts will eventually kick you in the teeth](https://medium.freecodecamp.com/good-coding-instincts-will-eventually-kick-you-in-the-teeth-2b3766897f3f#.gnnqetfhu)
+1. [Minimum Viable DevOps](https://medium.freecodecamp.com/minimum-viable-devops-919972dfd9e0#.rymfg6kjj)
+1. [Practice, set goals, and take advantage of all the coding resources out there](https://medium.freecodecamp.com/is-free-code-camp-enough-to-become-a-successful-developer-f5df0c33caa8#.4kpvg9k5q)
