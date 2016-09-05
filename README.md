@@ -118,3 +118,4 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [Já se sentiu um impostor? Eu também](http://gabsferreira.com/ja-se-sentiu-um-impostor-eu-tambem/)
 1. [Começando com React](https://willianjusten.com.br/comecando-com-react/)
 1. [Como usar o ReactJS](https://willianjusten.com.br/como-usar-o-reactjs/)
+1. [Como se manter atualizado no Frontend](https://willianjusten.com.br/como-se-manter-atualizado-no-frontend/)
