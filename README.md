@@ -65,6 +65,9 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 
 ## Front-end
 1. [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#)
+1. [What is ECMAScript?](http://www.programmerinterview.com/index.php/javascript/javascript-what-is-ecmascript/)
+1. [What is ECMAScript exactly? Is it different than JavaScript? Should I learn it?](https://www.quora.com/What-is-ECMAScript-exactly-Is-it-different-than-JavaScript-Should-I-learn-it)
+
 
 
 ## Back-end
@@ -141,6 +144,8 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [Write what you know. Or don’t.](https://writingcooperative.com/write-what-you-know-or-dont-989aa67a54a4#)
 1. [Show up. Communicate. Do the work.](https://medium.com/the-mission/show-up-communicate-do-the-work-c0990de18a12#)
 1. [3 Challenges All Writers Face (and How to Overcome Them)](https://medium.com/@jeffgoins/3-challenges-all-writers-face-and-how-to-overcome-them-1c8b65a020fe#)
+1. [Por que perdemos a criatividade](https://medium.com/@renatodemmer/porque-perdemos-a-criatividade-e-adoecemos-62417d83c30d#.rc2bp86w5)
+1, [Seu desenvolvedor é pedreiro, ajudante ou mestre de obras?](https://medium.com/@guilhermeviebig/seu-desenvolvedor-%C3%A9-pedreiro-ajudante-ou-mestre-de-obras-ec1cee5891e9#.66pvibyrk)
 
 
 ## Tech/Programming
