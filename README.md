@@ -149,3 +149,4 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [Good coding instincts will eventually kick you in the teeth](https://medium.freecodecamp.com/good-coding-instincts-will-eventually-kick-you-in-the-teeth-2b3766897f3f#.gnnqetfhu)
 1. [Minimum Viable DevOps](https://medium.freecodecamp.com/minimum-viable-devops-919972dfd9e0#.rymfg6kjj)
 1. [Practice, set goals, and take advantage of all the coding resources out there](https://medium.freecodecamp.com/is-free-code-camp-enough-to-become-a-successful-developer-f5df0c33caa8#.4kpvg9k5q)
+1. [Superando 4 mitos no desenvolvimento de software](https://guildadocodigo.atelie.software/superando-4-mitos-no-desenvolvimento-de-software-c413e9c53f41#.72vza8p14)
