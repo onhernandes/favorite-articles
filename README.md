@@ -117,6 +117,10 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [Stop Apologizing for Your Work](https://medium.com/@jeffgoins/stop-apologizing-for-your-work-7565780ab5b1#)
 1. [Stop asking! Start doing.](https://medium.com/art-of-practicality/stop-asking-start-doing-f12940b434d7#)
 1. [Think You Can’t Do Something? Read This.](https://medium.com/an-idea-for-you/think-you-cant-do-something-read-this-80fdf2f50dd7#)
+1. [Don't Tell Me What To Do](https://medium.com/i-m-h-o/dont-tell-me-what-to-do-974fbfe7900#)
+1. [Queime seus ídolos](http://danielfilho.github.io/2014/08/20/queime-seus-idolos/)
+1. [O que ninguém diz para os iniciantes](https://willianjusten.com.br/o-que-ninguem-diz-para-iniciantes/)
+1. [Mudando sua vida através de projetos paralelos](https://willianjusten.com.br/mudando-sua-vida-atraves-de-projetos-paralelos/)
 
 
 ## Un-tagged
