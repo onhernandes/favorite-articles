@@ -57,16 +57,11 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [Como se manter atualizado no Frontend](https://willianjusten.com.br/como-se-manter-atualizado-no-frontend/)
 
 
-1. [Front-end]
-1. [Back-end]
-1. [Productivity]
-1. [Life]
-
-
 ## Front-end
 1. [From Zero to Front-end Hero (Part 1)](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#)
 1. [What is ECMAScript?](http://www.programmerinterview.com/index.php/javascript/javascript-what-is-ecmascript/)
 1. [What is ECMAScript exactly? Is it different than JavaScript? Should I learn it?](https://www.quora.com/What-is-ECMAScript-exactly-Is-it-different-than-JavaScript-Should-I-learn-it)
+1. [O que TODO desenvolvedor JavaScript precisa saber](https://medium.com/tableless/o-que-todo-desenvolvedor-javascript-precisa-saber-2cc33daedb86#.baa7mp4n4)
 
 
 
@@ -134,6 +129,10 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [3 things I learned from 365 days straight on Duolingo](https://medium.com/the-mission/3-things-i-learned-from-365-days-straight-on-duolingo-a54923ac9d9b#)
 1. [#WeSurvived the First Two Weeks of Remote Year](https://medium.com/go-remote/wesurvived-the-first-two-weeks-of-remote-year-e052857ef1b9#)
 1. [Week 2: Life in Lisboa](https://medium.com/go-remote/week-2-life-in-lisboa-c6ee24372602#)
+1. [Saindo da depressão](https://medium.com/brasil/saindo-da-depress%C3%A3o-9cb5707d1ebf#.dbh535wpx)
+1. [Como ter largado meu emprego para abrir minha tão sonhada startup ferrou com a minha vida](https://medium.com/brasil/como-ter-largado-meu-emprego-para-abrir-minha-tao-sonhada-startup-ferrou-com-a-minha-vida-4394130cfa49#.34vfzvtc1)
+1. [Como planejei uma festa para o meu pai, sabendo que ele não estaria nela](https://medium.com/brasil/como-planejei-uma-festa-para-o-meu-pai-sabendo-que-ele-n%C3%A3o-estaria-nela-3460bb3edc29#.rwy9wu743)
+1. [Eu não nasci pra passar matéria a limpo](https://medium.com/@tamiresromano/eu-n%C3%A3o-nasci-pra-passar-mat%C3%A9ria-a-limpo-22525ea359f2#.sfb7bwj86)
 
 
 ## Social Media/Marketing
@@ -152,6 +151,9 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1, [Seu desenvolvedor é pedreiro, ajudante ou mestre de obras?](https://medium.com/@guilhermeviebig/seu-desenvolvedor-%C3%A9-pedreiro-ajudante-ou-mestre-de-obras-ec1cee5891e9#.66pvibyrk)
 
 
+## Linux
+1. [Processos em Background](https://udgwebdev.com/dicas-de-terminal-processos-em-background)
+
 ## Tech/Programming
 1. [Technical Anonymity Guide](https://blog.securityevaluators.com/technical-anonymity-guide-658a53adff5b#.vut6oma7k)
 1. [Good coding instincts will eventually kick you in the teeth](https://medium.freecodecamp.com/good-coding-instincts-will-eventually-kick-you-in-the-teeth-2b3766897f3f#.gnnqetfhu)
@@ -161,3 +163,6 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [How To Get Hundreds of Stars on Your Github Project](https://medium.com/@cwRichardKim/how-to-get-hundreds-of-stars-on-your-github-project-345b065e20a2#)
 1. [Code Briefing: Good code is its own best documentation](https://medium.freecodecamp.com/code-briefing-good-code-is-its-own-best-documentation-d064ca2077ae#)
 1. [Good code is its own best documentation](https://medium.freecodecamp.com/good-code-vs-bad-code-263f71e867c1#)
+1. [Princípios SOLID - Vantagens e fragilidades de código](http://marlysson.github.io/principios-solid-a-teoria.html)
+1. [Entendendo Testes de Software](https://willianjusten.com.br/entendendo-testes-de-software/)
+1. [Sabe o programador CTRL+C/CTRL+V? Não seja ele!](https://diogommartins.wordpress.com/2016/08/26/sabe-o-programador-ctrlcctrlv-nao-seja-ele/)
