@@ -139,6 +139,9 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [The Strategy Behind Snapchat’s Memories Update](https://medium.com/@garyvee/the-strategy-behind-snapchats-memories-update-5979d4c01e4d#.k9lsqh3w8)
 
 
+## UX
+1. [MPV - A coisa do passado](https://medium.com/@marcobrunobr/mvp-%C3%A9-coisa-do-passado-a-moda-agora-%C3%A9-mlp-4446fc476006#)
+
 ## Society
 1. [The Danger of Stopping at Z: Why Kids Should Code, in the Words of Dr. Seuss](https://medium.freecodecamp.com/the-danger-of-stopping-at-z-c28fbd702e0b#)
 
