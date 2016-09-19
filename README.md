@@ -83,7 +83,8 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [4 Ways I’ve Optimized my Life for Deep Work](https://medium.com/@skooloflife/4-ways-i-ve-optimized-my-life-for-deep-work-d0e68d5d5fa0#)
 1. [Take A Vacation: It Boosts Your Productivity And Reduces Stress](https://medium.com/the-mission/take-a-vacation-it-boosts-your-productivity-and-reduces-stress-5979ca040bc5#)
 1. [Why It’s Time You Started a Fuck-It List](https://medium.com/the-coffeelicious/why-its-time-you-started-a-fuck-it-list-bcda6b237885#)
-
+1. [Live asynchronously](https://medium.freecodecamp.com/live-asynchronously-c8e7172fe7ea#)
+1. [This 30-Minute Evening Ritual Will Help You To Kick Life In The Ass](https://medium.com/art-of-practicality/this-30-minute-evening-ritual-will-help-you-to-kick-life-in-the-ass-fb2c2625f757#)
 
 ## Life
 1. [Are you waiting for your real life to begin?](https://medium.com/hi-my-name-is-jon/are-you-waiting-for-your-real-life-to-begin-18aa193ca2cb#.m26b0edvt)
@@ -116,6 +117,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [Queime seus ídolos](http://danielfilho.github.io/2014/08/20/queime-seus-idolos/)
 1. [O que ninguém diz para os iniciantes](https://willianjusten.com.br/o-que-ninguem-diz-para-iniciantes/)
 1. [Mudando sua vida através de projetos paralelos](https://willianjusten.com.br/mudando-sua-vida-atraves-de-projetos-paralelos/)
+1. [Why You Should Be Uncomfortable with Lady Problems](https://medium.com/angelhack/why-you-should-be-uncomfortable-with-lady-problems-80f4c02f4beb#)
 
 
 ## Un-tagged
