@@ -62,6 +62,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [What is ECMAScript?](http://www.programmerinterview.com/index.php/javascript/javascript-what-is-ecmascript/)
 1. [What is ECMAScript exactly? Is it different than JavaScript? Should I learn it?](https://www.quora.com/What-is-ECMAScript-exactly-Is-it-different-than-JavaScript-Should-I-learn-it)
 1. [O que TODO desenvolvedor JavaScript precisa saber](https://medium.com/tableless/o-que-todo-desenvolvedor-javascript-precisa-saber-2cc33daedb86#.baa7mp4n4)
+1. [8 Motivos para aprender Meteor agora](https://udgwebdev.com/8-motivos-para-aprender-meteor-agora)
 
 
 
@@ -118,6 +119,7 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [O que ninguém diz para os iniciantes](https://willianjusten.com.br/o-que-ninguem-diz-para-iniciantes/)
 1. [Mudando sua vida através de projetos paralelos](https://willianjusten.com.br/mudando-sua-vida-atraves-de-projetos-paralelos/)
 1. [Why You Should Be Uncomfortable with Lady Problems](https://medium.com/angelhack/why-you-should-be-uncomfortable-with-lady-problems-80f4c02f4beb#)
+1. [The Thinker: How I Escaped My Prison](https://medium.com/the-mission/the-thinker-how-i-escaped-my-prison-f02f0a7fc1bd#)
 
 
 ## Un-tagged
