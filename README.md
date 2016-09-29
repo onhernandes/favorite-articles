@@ -64,11 +64,6 @@ Awesome list with my favorite articles. For a while, those articles are not tota
 1. [O que TODO desenvolvedor JavaScript precisa saber](https://medium.com/tableless/o-que-todo-desenvolvedor-javascript-precisa-saber-2cc33daedb86#.baa7mp4n4)
 1. [8 Motivos para aprender Meteor agora](https://udgwebdev.com/8-motivos-para-aprender-meteor-agora)
 
-
-
-## Back-end
-
-
 ## Productivity
 1. [How to Practice (and Become) Your Awesome Future Self — Starting Today](https://medium.com/the-mission/how-to-practice-and-become-your-awesome-future-self-starting-today-3a3e7fad8c2d#.22qp9cl42)
 1. [How Making Micro Changes Can Help You Start a New Chapter of Your Life](https://medium.com/the-mission/how-making-micro-changes-can-help-you-start-a-new-chapter-of-your-life-661a3ee83bd#.uxxe2t9e5)
