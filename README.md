@@ -7,7 +7,7 @@ Why don't we share our favorite and loved articles?
 
 [Medium](https://medium.com/@mt_hernandes) | [Pocket](https://getpocket.com/@mhernandes)
 
--------------------
+----------
 
 ## [2016](2016.md)
 
@@ -25,8 +25,6 @@ Why don't we share our favorite and loved articles?
 
 
 ### #dev
-
--------------
 
 - [My First 100 Days as a Web Developer](https://medium.com/@jonnilundy/first-100-days-the-story-cea9d590f63b)
 - [Why I’m writing a Windows 3 Emulator](https://hackernoon.com/win3mu-part-1-why-im-writing-a-16-bit-windows-emulator-2eae946c935d)
@@ -48,8 +46,6 @@ Why don't we share our favorite and loved articles?
 
 ## #android
 
--------------
-
 - [Android strings.xml — things to remember](https://medium.com/google-developer-experts/android-strings-xml-things-to-remember-c155025bb8bb)
 - [MVP [Model — View — Presenter] in Android](https://medium.com/@CStudio/mvp-model-view-presenter-in-android-6487b9fafcbb)
 - [Android User Interface Design: Layout Basics](https://code.tutsplus.com/tutorials/android-user-interface-design-layout-basics--mobile-3671)
@@ -60,15 +56,11 @@ Why don't we share our favorite and loved articles?
 
 ## #kotlin
 
--------------
-
 - [Some of my favorite Kotlin features (that we use a lot in Basecamp)](https://m.signalvnoise.com/some-of-my-favorite-kotlin-features-that-we-use-a-lot-in-basecamp-5ac9d6cea95)
 - [Kotlin by examples: Class and Properties](https://dev.to/dbottillo/kotlin-by-examples-class-and-properties)
 
 
 ## #ui
-
--------------
 
 - [Best Practices for Hero Images](https://uxplanet.org/best-practices-for-hero-images-eeb234b664d6)
 - [Best Practices for Long Scrolling](https://uxplanet.org/best-practices-for-long-scrolling-256ffbd7aa12)
@@ -80,14 +72,10 @@ Why don't we share our favorite and loved articles?
 
 ## #ux
 
--------------
-
 - [Death by hamburguer](https://uxdesign.cc/death-by-hamburger-2d1db115352a)
 
 
 ## #css
-
--------------
 
 - [Ícones – SVG Sprites com CSS na prática](https://tableless.com.br/icones-svg-sprites-com-css-na-pratica/)
 - [An Introduction to the Reduced Motion Media Query](https://css-tricks.com/introduction-reduced-motion-media-query/)
@@ -95,8 +83,6 @@ Why don't we share our favorite and loved articles?
 
 
 ## #javascript
-
--------------
 
 - [JAVASCRIPT FUNDAMENTALS - OBJETO ARRAY #1](http://cauequeiroz.com.br/javascript-fundamentals-objeto-array-1/)
 - [JAVASCRIPT FUNDAMENTALS - OBJETO ARRAY #2](http://cauequeiroz.com.br/javascript-fundamentals-objeto-array-2/)
